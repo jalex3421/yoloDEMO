@@ -1,2 +1,1 @@
-README
 This project demonstrates the application of the YOLOv5 object detection model to classify a custom image. By leveraging the YOLO (You Only Look Once) architecture, we can perform real-time object detection efficiently and accurately. In this notebook, we showcase how to preprocess an image, apply the YOLOv5 model for object detection, and visualize the results. The use of YOLOv5 in this context illustrates its suitability for a wide range of applications including autonomous driving, surveillance, and augmented reality.
